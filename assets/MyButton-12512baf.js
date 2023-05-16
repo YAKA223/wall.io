@@ -1,0 +1,1 @@
+import{_ as n,a as s,c as a,q as o,y as r}from"./index-efa79591.js";const _={__name:"MyButton",props:{size:{type:String,default:"base"},nom:{type:String,default:"primary"}},setup(e){return(t,u)=>(s(),a("button",{class:r(["my-button",[e.size,e.nom]])},[o(t.$slots,"default",{},void 0,!0)],2))}},l=n(_,[["__scopeId","data-v-b87e7d76"]]);export{l as M};
